@@ -1,6 +1,6 @@
-#This CodeBook describes variables for this project.
+##Human Activity Recognition Using Smartphones Dataset
+##This CodeBook describes variables for this project. Most of the info are derived from the feature info file.
 
-Human Activity Recognition Using Smartphones Dataset
 
 Tmean(): Mean value
 std(): Standard deviation
